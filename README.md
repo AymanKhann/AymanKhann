@@ -6,7 +6,7 @@ RAG models and alignment techniques. Developing software systems to enhance the 
 LLMs by integrating external knowledge bases and retrieval mechanisms to improve trustworthiness, accuracy and relevancy in their responses.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
