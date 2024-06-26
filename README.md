@@ -1,8 +1,8 @@
 <h1 align="center">"Hello,World!"; 👋, I'm Ayman('Ay' as in Elon Musk). 😄</h1>
 <h3 align="center">Software Engineer | GenAI Research Assitant at GPT-Lab Tampere, Finland</h3>
 
-🔭 I'm experimenting and explorating research on state-of-the-art GenerativeAI,
-RAG models and alignment techniques. Developing software systems to enhance the capabilities of
+🔭 My background is in Software Development and I'm currently experimenting and explorating research on state-of-the-art GenerativeAI,
+RAG models and alignment techniques. Precisely, I'm developing software systems with AI to enhance the capabilities of
 LLMs by integrating external knowledge bases and retrieval mechanisms to improve trustworthiness, accuracy and relevancy in their responses.
 
 <h3 align="left">Languages and Tools:</h3>
