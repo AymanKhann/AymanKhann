@@ -1,4 +1,4 @@
-<h1 align="center">"Hello,World!"; 👋, I'm Ayman('Ay' as in Elon Musk). 😄</h1>
+<h1 align="center">"Hello,World!"; I'm Ayman('Ay' as in Elon Musk). </h1>
 <h3 align="center">Software Engineer | GenAI Research Assitant at GPT-Lab Tampere University, Finland</h3>
 
 🔭 My background is in Software Development and I'm currently experimenting and explorating research on state-of-the-art GenerativeAI,
